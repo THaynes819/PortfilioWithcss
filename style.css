@@ -1,0 +1,49 @@
+.bluebg {
+    background-color: #278cff;
+    color: white;
+    border-radius: 5%;
+    margin-left: 10px;
+}
+
+.logo {
+    height: 50px;
+    justify-content: left;
+    margin-right: 5px;
+    margin-left: 10%;
+}
+
+.page-title {
+    justify-content: center;
+    
+}
+
+.phone {
+    max-height: 20%;
+}
+
+.pcimage {
+    width: 50%;
+    max-height: 50%;
+}
+
+.portfolio-main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.moglogo {
+    display: flex;
+    justify-content: center;
+    
+    max-height: 300px;
+}
+
+.phone-image {
+    display: flex;
+    justify-content: center;
+}
+
+.contact-text {
+    margin-left: 30%;
+}
